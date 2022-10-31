@@ -32,3 +32,5 @@ The aim of this repository is to create a conda environment on `aarch64`.
 
 #### Deactivate the environment:
 - `$ conda deactivate`
+
+Reference: [How To Install Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
