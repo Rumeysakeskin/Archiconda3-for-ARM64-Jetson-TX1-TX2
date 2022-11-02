@@ -6,20 +6,25 @@ The aim of this repository is to create a conda environment on `aarch64`.
 ### Set up
 
 #### Download the installation script and run:
-- ```$ wget https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh
-- $ bash Archiconda3-0.2.3-Linux-aarch64.sh```
+```
+- $ wget https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh
+- $ bash Archiconda3-0.2.3-Linux-aarch64.sh
+```
 
 
 #### Activate installation:
-- `$ source ~/.bashrc` 
+```
+- $ source ~/.bashrc
+```
 
 #### Check the version, if conda is successfully installed, you will see the version info on the terminal:
-- `$ conda --version` 
-
+```
+- $ conda --version
+```
 ### How to use
 
 #### Create conda environment:
-- `$ conda create --name env_name` 
+- $ conda create --name env_name
 
 #### Create an environment with a specific version of Python:
 - `$ conda create --name env_name python=3.7` 
