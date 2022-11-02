@@ -24,18 +24,29 @@ $ conda --version
 ### How to use
 
 #### Create conda environment:
-```$ conda create --name env_name```
+```
+$ conda create --name env_name
+```
+
 
 #### Create an environment with a specific version of Python:
-```$ conda create --name env_name python=3.7```
+```
+$ conda create --name env_name python=3.7
+```
 
 #### Remove an environment:
-```$ conda env remove -n env_name```
+```
+$ conda env remove -n env_name
+```
 
 #### Activate the environment:
-```$ conda activate env_name```
+```
+$ conda activate env_name
+```
 
 #### Deactivate the environment:
-```$ conda deactivate```
+```
+$ conda deactivate
+```
 
 Reference: [How To Install Anaconda on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
