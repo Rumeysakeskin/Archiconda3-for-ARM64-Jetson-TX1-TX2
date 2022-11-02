@@ -6,8 +6,8 @@ The aim of this repository is to create a conda environment on `aarch64`.
 ### Set up
 
 #### Download the installation script and run:
-- `$ wget https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh`
-- `$ bash Archiconda3-0.2.3-Linux-aarch64.sh` 
+- ```$ wget https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh
+- $ bash Archiconda3-0.2.3-Linux-aarch64.sh```
 
 
 #### Activate installation:
